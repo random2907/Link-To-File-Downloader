@@ -16,5 +16,7 @@ pip install wget
 ```
 pip install gdown
 ```
+# Bug
+- Some link won't work , if you want to add anything to this post in Issues
 
 
