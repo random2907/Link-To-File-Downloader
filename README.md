@@ -39,5 +39,7 @@ pip install gdown
 # Bug
 - Some link won't work 
 - Want any other thing post in Issues
-
+# Credits
+- [wkentaro](https://github.com/wkentaro)
+- [yt-dlp](https://github.com/yt-dlp)
 
