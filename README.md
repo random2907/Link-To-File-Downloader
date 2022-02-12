@@ -30,7 +30,7 @@ cd Link-To-File-Downloader
 ```
 - Start script
 ```
-- python link_to_file_downloader.py
+python link_to_file_downloader.py
 ```
 - Enjoy
 
