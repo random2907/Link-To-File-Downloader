@@ -8,7 +8,9 @@ Its a Simple python script which uses : gdown , yt-dlp , wget to Download files
 
 # Setup
 pip install yt-dlp
+
 pip install wget
+
 pip install gdown
  
 
