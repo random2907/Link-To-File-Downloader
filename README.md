@@ -9,11 +9,11 @@ Its a Simple python script which uses : gdown , yt-dlp , wget to Download files
 # Setup
 - Clone this repo
 ```
-- git clone https://github.com/random2907/Link-To-File-Downloader.git -b main
+git clone https://github.com/random2907/Link-To-File-Downloader.git -b main
 ```
 - Go to the directory
 ```
-- cd Link-To-File-Downloader
+cd Link-To-File-Downloader
 ```
 # Dependicies
 - Install yt-dlp
