@@ -13,6 +13,8 @@ Its a Simple python script which uses : gdown , yt-dlp , wget to Download files
 ```
 - Go to the directory
 ```
+- cd Link-To-File-Downloader
+```
 # Dependicies
 - Install yt-dlp
 ```
@@ -26,8 +28,8 @@ pip install wget
 ```
 pip install gdown
 ```
-- cd Link-To-File-Downloader
-```
+
+
 - Start script
 ```
 - python link_to_file_downloader.py
