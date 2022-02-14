@@ -7,6 +7,10 @@ Its a Simple python script which uses : gdown , yt-dlp , wget to Download files
 - Direct link
 
 # Dependicies
+- Install requests
+```
+pip install requests
+```
 - Install yt-dlp
 ```
 pip install yt-dlp
