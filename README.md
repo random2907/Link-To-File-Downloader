@@ -1,5 +1,5 @@
 # File Downloader
-Its a Simple python script which uses : gdown , yt-dlp , wget to Download files
+Its a Simple python script to Download files
 
 # Supportes Links
 - Google Drive Link
