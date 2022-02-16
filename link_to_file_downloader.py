@@ -1,7 +1,6 @@
 from urllib.error import HTTPError
 import requests
 import yt_dlp
-import subprocess
 import wget
 import gdown
 num = int(input("how many links you have = "))
