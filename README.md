@@ -26,7 +26,7 @@ pip install gdown
 # Setup
 - Clone this repo
 ```
-git clone https://github.com/random2907/Link-To-File-Downloader.git -b main
+git clone https://github.com/random2907/Link-To-File-Downloader.git -b Test
 ```
 - Go to the directory
 ```
